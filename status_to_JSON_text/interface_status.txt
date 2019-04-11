@@ -1,0 +1,16 @@
+asw2#sho int status
+
+Port      Name               Status       Vlan       Duplex  Speed Type
+Gi1/0/1   client port        connected    25           full   1000 10/100/1000BaseTX
+Gi1/0/2   client port        connected    25           full   1000 10/100/1000BaseTX
+Gi1/0/3   client port        connected    25           full   1000 10/100/1000BaseTX
+Gi1/0/4   client port        connected    25           full   1000 10/100/1000BaseTX
+Gi1/0/5   client port        disabled     25           auto   auto 10/100/1000BaseTX
+Gi1/0/6   client port        connected    25           full   1000 10/100/1000BaseTX
+Gi1/0/7   client port        connected    25           full   1000 10/100/1000BaseTX
+Gi1/0/8   client port        connected    25           full   1000 10/100/1000BaseTX
+Gi1/0/9   client port        notconnect   25           auto   auto 10/100/1000BaseTX
+Gi1/0/10  client port        connected    25           full   1000 10/100/1000BaseTX
+Gi1/0/11  printer            connected    45         a-full a-1000 10/100/1000BaseTX
+Gi1/0/12  link to core sw    connected    trunk        full   1000 10/100/1000BaseTX
+asw2#
