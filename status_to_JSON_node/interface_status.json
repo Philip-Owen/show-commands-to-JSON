@@ -1,0 +1,119 @@
+[
+	{
+		"port": "Gi1/0/1",
+		"name": "client port",
+		"status": "connected",
+		"vlan": "25",
+		"duplex": "full",
+		"speed": "1000",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/2",
+		"name": "client port",
+		"status": "connected",
+		"vlan": "25",
+		"duplex": "full",
+		"speed": "1000",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/3",
+		"name": "client port",
+		"status": "connected",
+		"vlan": "25",
+		"duplex": "full",
+		"speed": "1000",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/4",
+		"name": "client port",
+		"status": "connected",
+		"vlan": "25",
+		"duplex": "full",
+		"speed": "1000",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/5",
+		"name": "client port",
+		"status": "disabled",
+		"vlan": "25",
+		"duplex": "auto",
+		"speed": "auto",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/6",
+		"name": "client port",
+		"status": "connected",
+		"vlan": "25",
+		"duplex": "full",
+		"speed": "1000",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/7",
+		"name": "client port",
+		"status": "connected",
+		"vlan": "25",
+		"duplex": "full",
+		"speed": "1000",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/8",
+		"name": "client port",
+		"status": "connected",
+		"vlan": "25",
+		"duplex": "full",
+		"speed": "1000",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/9",
+		"name": "client port",
+		"status": "notconnect",
+		"vlan": "25",
+		"duplex": "auto",
+		"speed": "auto",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/10",
+		"name": "printer",
+		"status": "connected",
+		"vlan": "45",
+		"duplex": "a-full",
+		"speed": "a-1000",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/11",
+		"name": "link to core sw",
+		"status": "connected",
+		"vlan": "trunk",
+		"duplex": "full",
+		"speed": "1000",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Gi1/0/12",
+		"name": "link to core sw",
+		"status": "connected",
+		"vlan": "trunk",
+		"duplex": "full",
+		"speed": "1000",
+		"type": "10/100/1000BaseTX"
+	},
+	{
+		"port": "Po1",
+		"name": "link agg to core",
+		"status": "connected",
+		"vlan": "trunk",
+		"duplex": "full",
+		"speed": "1000",
+		"type": "10/100/1000BaseTX"
+	}
+]
