@@ -5,3 +5,5 @@ These scripts were designed to take the Cisco command `show interface status` ou
 `status_to_JSON_textfile` reads the output from a .txt file within the folder and converts it to JSON.
 
 `status_to_JSON_textfile` utilizes Netmiko to SSH to a device, run the show command, and then convert the results to JSON.
+
+`status_to_JSON_node` uses Node.js to read the output from a .txt file within the folder and converts it to JSON.
